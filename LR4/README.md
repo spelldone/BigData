@@ -13,7 +13,8 @@
 <img src="/LR4/images/install.png"> <br/>
 
 ## Изучение директории
-Перейдем в директорию установки ZooKeeper и изучим содержимое директории. <br/>
+Перейдем в директорию установки ZooKeeper и изучим содержимое директории. <br/>![monk](https://user-images.githubusercontent.com/61648756/209738119-8d9119d5-8ad8-4efd-a1b3-673ec7f74e4f.png)
+
 В директории находятся следующие папки:
 + bin с исполняемыми файлами для запуска, остановки и взаимодействия с ZooKeeper,
 + conf с конфигурационными файлами,
@@ -93,9 +94,11 @@ set /myconfig 'sheep_count=2'
 
 
 Monkey:
-<img src="/LR4/images/monkey.png"> <br/>
+<br>
+<img src="/LR4/images/monk.png" width='500'> <br/>
 Tiger:
-<img src="/LR4/images/tiger.png"> <br/>
+<br>
+<img src="/LR4/images/tiger.png" width='500'> <br/>
 
 
 ### Философы
